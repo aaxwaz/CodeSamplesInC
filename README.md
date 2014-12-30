@@ -1,4 +1,4 @@
-CodeSamplesInC
+Code samples for fun
 ==============
 
-Just some samples implemented for LinkedList, Binary Trees in C and C#
+Just some of my samples implemented for LinkedList, Binary Trees in C 
