@@ -1,4 +1,5 @@
-// Single Linked List supporting for Delete, Insert, Search and Display
+// Single Linked List supporting for Delete, Insert, Search and Display functions
+// List is maintained in ascending order at all times
 
 #include<stdio.h>
 #include<Windows.h>
